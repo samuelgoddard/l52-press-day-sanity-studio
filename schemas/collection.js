@@ -16,9 +16,9 @@ export default {
       type: 'string',
     },
     {
-      title: 'Images Google Drive URL',
+      title: 'Images Download Zip',
       name: 'imagesGoogleDrive',
-      type: 'string',
+      type: 'file',
     },
     {
       title: 'Lookbook PDF',
