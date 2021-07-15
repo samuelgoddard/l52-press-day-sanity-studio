@@ -21,6 +21,11 @@ export default {
       type: 'string',
     },
     {
+      title: 'Download Still Life',
+      name: 'downloadStillLife',
+      type: 'string',
+    },
+    {
       title: 'Lookbook PDF',
       name: 'lookbookPdf',
       type: 'file',
